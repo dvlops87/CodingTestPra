@@ -2,7 +2,7 @@ T = int(input())
 nList = []
 numList = []
 locate=0
-for i in range(T):
+for i in range(T): 
     n = int(input())
     nList.append(n)
     n=nList[i]
